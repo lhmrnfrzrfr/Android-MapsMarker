@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">MyMapsMarker</string>
-    <string name="map_key" translatable="false">AIzaSyBBQWVFFRn2tTWrnBc6fqFcPjzPPULYKQE</string>
+    <string name="map_key" translatable="false">YOUR API KEY</string>
 </resources>
